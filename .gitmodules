@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:G42makes/g42makes.github.io.git
