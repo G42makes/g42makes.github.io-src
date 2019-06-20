@@ -1,1 +1,2 @@
-Source repo for g42makes.github.io.
+Source Repo for:
+[G42Makes.GitHub.io](http://g42makes.github.io)
